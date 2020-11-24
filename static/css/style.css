@@ -1,0 +1,12 @@
+h2 {
+  color: red;
+}
+
+div {
+  height: 60px;
+  border: 2px dashed #f69c55;
+}
+
+.center-text {
+  text-align: center;
+}
